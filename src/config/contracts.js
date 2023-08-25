@@ -1,0 +1,2 @@
+ export const sriverseContract="0x79c4170B97985186acA5922991812ddd25Ea1d7f"
+ export const USDT="0x226144f29A1da92Dc8Be26777a772ac04F5b8f40"

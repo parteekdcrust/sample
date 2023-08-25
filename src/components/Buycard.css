@@ -1,0 +1,73 @@
+.card_A{
+    background-color: #10172b;
+    text-align: center;
+    border-radius: 15px;
+    border: 3px solid;
+ 
+    padding: 40px;
+    box-shadow: 0px 20px 100px -10px rgba(66, 71, 91, 0.1);
+}
+.main_hadding{
+    font-size: 30px;
+    letter-spacing: 2px;
+    color: #4ED3DD;
+    font-weight: 600;
+}
+.para{
+    font-weight: 400;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.btn_buy{
+    max-width: 308px;
+    margin-bottom: 0;
+    background-color: #0eb6d6;
+    color: #f15e22;
+    box-shadow: none;
+    transition: .3s ease-in 0s;
+    background-size: 250% auto;
+    background-image: linear-gradient(-85deg,#fff,#fff 40%,rgba(0,142,207,.2) 50%,#fff 60%,#fff);
+    padding: 12px 24px;
+    border-radius: 4px;
+    font-weight: 700;
+    line-height: 1.2;
+    text-transform: uppercase;
+    display: block;
+    margin: auto;
+}
+.btn_buy:hover{
+    background-position: 100%;
+    border-color: #f15e22;
+    transform: scale(1.02);
+}
+.input{
+    width: 82%;
+    padding: 7px 7px;
+}
+.btn_10{
+    background: cornflowerblue;
+    width: 68px;
+    padding: 7px;
+    font-weight: 500;
+}
+.main_hd{
+    letter-spacing: 7px;
+    font-size: 34px;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+    margin-bottom:15px;
+}
+.para_B{
+    color: white;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+/* .pack{
+    background: radial-gradient( 64.18% 64.18% at 71.16% 35.69%, #2CB2C4 0.89%, #0B95A0 17.23%, #4ED3DD 71.54%, #87ECF4 100% );
+} */
+.pack{
+    color: #4ED3DD;
+}
